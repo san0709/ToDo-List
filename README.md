@@ -30,7 +30,7 @@ Clone the Repository:
 
 Bash
 
-git clone [YOUR REPO URL HERE]
+git clone https://github.com/san0709/ToDo-List/tree/main
 cd todo-list-app
 Install Dependencies:
 
